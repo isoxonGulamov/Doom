@@ -1,0 +1,36 @@
+body{
+  background-image: url(./img/kds.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+.bl{
+  margin: 0 auto;
+  padding-bottom: 100px;
+  padding: 0 auto;
+  display: inline-block;
+}
+.Big-box{
+  margin-top: 100px;
+  margin: 0 auto;
+  background-color: #303534;
+  color:  #303534;
+
+width: 270px;
+border-radius: 80px;
+height: 600px;
+padding-top: 20px;
+padding-bottom: 20px;
+border: 5px solid blue;
+
+
+}
+.box{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #585858;
+  margin: 0 auto;
+ margin-top: 30px;
+ transition-duration: 0.8s
+}
